@@ -1,4 +1,4 @@
-# Linear Regression with Burn Library
+# Linear Regression
 
 This project demonstrates how to implement a simple linear regression model using the **Burn** library in **Rust**. The goal was to predict values based on some noisy 
 input data, visualize the results, and evaluate the model's performance. As a beginner in Rust, this was a great opportunity to explore machine learning concepts and 
@@ -100,7 +100,7 @@ I spent a lot of time experimenting to get the code working, which helped me lea
 Visualization: The visualization process was another challenge. Textplots is useful for simple, text-based charts, but it doesn’t provide the level of detail 
 I would prefer. I was unable to generate detailed graphical plots, which limited my ability to fully evaluate the model’s performance.
 
-What I Learned
+
 Rust and Machine Learning: I learned a lot about how to structure a machine learning model in Rust. It was my first time using a machine learning library in Rust, 
 and despite the challenges, I gained a better understanding of both the language and the basic principles of machine learning.
 
